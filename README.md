@@ -16,4 +16,5 @@ I learned how to better organize my code to make it easier to follow and look ba
 
 Not only is this project well organized and well consolidated, I also added a favicon.
 
+
 ### Click [here](https://taystarr.github.io/challenge-1/) to view my finished project!
